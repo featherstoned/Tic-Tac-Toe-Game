@@ -1,0 +1,83 @@
+.title {
+  font-family: 'Waiting for the Sunrise', cursive;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+  padding: 0;
+  }
+ 
+h1 {
+  margin-top: 15px;
+}
+
+ol {
+  line-height: 100%;
+  margin-top: -10px;
+  font-size: 40px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.square {
+  color: #3a3e49;
+  background: transparent;
+  border: 3px solid #3a3e49;
+  float: left;
+  font-size: 95px;
+  font-weight: bold;
+  line-height: 34px; 
+  height: 200px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 20px;
+  text-align: center;
+  width: 200px;
+  font-family: 'Waiting for the Sunrise', cursive;
+}
+
+.board-row:after {
+  clear: both;
+  content: '';
+  display: table;
+}
+
+.status {
+  text-align: left;
+  color:#3a3e49;
+  width: 700px;
+  margin-bottom: 10px;
+  font-size: 85px;
+  font-family: 'Waiting for the Sunrise', cursive;
+}
+.game {
+  display: flex;
+  flex-direction: row;
+}
+
+.game-info {
+  margin-top: 125px;
+  margin-left: -1px;
+  font-family: 'Waiting for the Sunrise', cursive;
+}
+
+.square.winning {
+  background-color:  #ccff00;
+}
+
+.game-board {
+  margin-top: 150px;
+  margin-left: 110px;
+}
+
+
+
