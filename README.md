@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-Game
-created with React
+##### created with React
 
 ### General Theme:
 I set out to create a tic-tac-toe game with the appearance of something you would play at school with friends with common school supplies (lined notebook paper, pencil, highlighter).
