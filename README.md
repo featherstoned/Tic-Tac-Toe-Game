@@ -29,6 +29,9 @@ The provided code is a React component for a Tic-Tac-Toe game with the following
    - If a winning combination is found, it returns an o
 bject with the winning player and the winning combination. Otherwise, it returns null.
 
+### Future Improvements:
+   - Add a button that resets the game.
+
 ### Styling
 Imported background image of lined notebook paper from Pixabay, 'Waiting For the Sunrise' font embedded from Google Fonts, Hex Colors to resemble graphite from pencil and flourescent yellow from highlighter.
 
