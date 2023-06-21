@@ -26,7 +26,10 @@ The provided code is a React component for a Tic-Tac-Toe game with the following
 ### calculateWinner Function:
    - This function accepts an array representing the current state of the Tic-Tac-Toe board (`squares`).
    - It checks for winning combinations by iterating over predefined winning lines.
-   - If a winning combination is found, it returns an object with the winning player and the winning combination. Otherwise, it returns null.
+   - If a winning combination is found, it returns an o
+bject with the winning player and the winning combination. Otherwise, it returns null.
 
 ### Styling
 Imported background image of lined notebook paper from Pixabay, 'Waiting For the Sunrise' font embedded from Google Fonts, Hex Colors to resemble graphite from pencil and flourescent yellow from highlighter.
+
+<img width="400" alt="Screenshot 2023-06-20 at 12 23 52 PM" src="https://github.com/featherstoned/Tic-Tac-Toe-Game/assets/124631246/1672365e-7ead-4e02-95cb-21a0ceee14da"> <img width="400" alt="Screenshot 2023-06-20 at 1 33 32 PM" src="https://github.com/featherstoned/Tic-Tac-Toe-Game/assets/124631246/6f691b26-48a3-4f43-b3a3-fc413d96a0d9">
